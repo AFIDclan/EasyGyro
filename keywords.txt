@@ -1,0 +1,6 @@
+Easy_Gyro 	KEYWORD1
+Initialize 	KEYWORD2
+CalcDMP 	KEYWORD2
+GetPitch 	KEYWORD2
+GetRoll 	KEYWORD2
+GetYaw 		KEYWORD2
